@@ -1,0 +1,14 @@
+C:\Users\60050068\Desktop\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.config
+C:\Users\60050068\Desktop\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe
+C:\Users\60050068\Desktop\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.pdb
+C:\Users\60050068\Desktop\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csproj.ResolveComReference.cache
+C:\Users\60050068\Desktop\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+C:\Users\60050068\Desktop\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.cs
+C:\Users\60050068\Desktop\WpfApplication1\WpfApplication1\obj\Release\App.g.cs
+C:\Users\60050068\Desktop\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+C:\Users\60050068\Desktop\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.g.resources
+C:\Users\60050068\Desktop\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\60050068\Desktop\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\60050068\Desktop\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csproj.CoreCompileInputs.cache
+C:\Users\60050068\Desktop\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.exe
+C:\Users\60050068\Desktop\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.pdb
